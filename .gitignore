@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+.agents/
+api_debug.log
+test_result.txt
+*.log
+*.tmp
+*.bak
+
